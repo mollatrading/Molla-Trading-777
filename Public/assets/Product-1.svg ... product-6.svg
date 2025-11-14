@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="100%" height="100%" fill="#fff6f4"/>
+  <g transform="translate(40,40)">
+    <rect x="0" y="0" width="320" height="240" rx="12" fill="#C62828"/>
+    <text x="160" y="125" text-anchor="middle" font-size="20" font-family="Arial" fill="#fff">Product 1</text>
+  </g>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="100%" height="100%" fill="#f8fafc"/>
+  <g transform="translate(40,40)">
+    <rect x="0" y="0" width="320" height="240" rx="12" fill="#1E88E5"/>
+    <text x="160" y="125" text-anchor="middle" font-size="20" font-family="Arial" fill="#fff">Product 2</text>
+  </g>
+</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="100%" height="100%" fill="#fffaf0"/>
+  <g transform="translate(40,40)">
+    <rect x="0" y="0" width="320" height="240" rx="12" fill="#8E24AA"/>
+    <text x="160" y="125" text-anchor="middle" font-size="20" font-family="Arial" fill="#fff">Product 3</text>
+  </g>
+</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="100%" height="100%" fill="#f3f4f6"/>
+  <g transform="translate(40,40)">
+    <rect x="0" y="0" width="320" height="240" rx="12" fill="#43A047"/>
+    <text x="160" y="125" text-anchor="middle" font-size="20" font-family="Arial" fill="#fff">Product 4</text>
+  </g>
+</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="100%" height="100%" fill="#fff8e1"/>
+  <g transform="translate(40,40)">
+    <rect x="0" y="0" width="320" height="240" rx="12" fill="#F57C00"/>
+    <text x="160" y="125" text-anchor="middle" font-size="20" font-family="Arial" fill="#fff">Product 5</text>
+  </g>
+</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="100%" height="100%" fill="#f4f6f8"/>
+  <g transform="translate(40,40)">
+    <rect x="0" y="0" width="320" height="240" rx="12" fill="#6D4C41"/>
+    <text x="160" y="125" text-anchor="middle" font-size="20" font-family="Arial" fill="#fff">Product 6</text>
+  </g>
+</svg>
